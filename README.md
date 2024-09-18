@@ -96,8 +96,3 @@ scikit-learn
 spacy
 matplotlib
 ```
-
-### Notes:
-- Update `your-username` in the clone command to your GitHub username.
-- You can adjust the **accuracy, AUC score** values under "Results" after running the project.
-- Make sure to include `spam_email_classifier.py` as the main script in your repo.
